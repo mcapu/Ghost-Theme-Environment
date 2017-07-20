@@ -1,0 +1,15 @@
+{
+  "name": "Ghost-theme-environment",
+  "version": "0.0.0",
+  "description": "Developer environment for Ghost blog themes",
+  "main": "gulpfile.js",
+  "license": "GPL-3.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "materialize": "~0.97.0"
+  }
+}
